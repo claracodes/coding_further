@@ -1,11 +1,14 @@
-# Ruby on Rails
+"Coding further" is made for my students who graduated from Le Wagon coding bootcamp and are just now exploring the world of tech. I collected some (free) online courses to keep on learning as well as other helpful resources which will help you to fully immerse in the dev universe. Have fun and let me know what you think!
+
+
+## Ruby on Rails
 
 At Le Wagon you learn our beloved Ruby and Rails - and there is a lot more to find out about it, have a look at these tutorials:
 
 - https://gorails.com/series - a plethora of tutorials
 - https://thoughtbot.com/upcase/ (they also have courses on advanced git!)
 
-# Code Katas
+## Code Katas
 
 If you need to prepare for that next interview, have a look at code katas. But don't get frustrated - these challenges are at the verge of coding, problem solving and mathematical skills which is a very specific skill of itself.
 
@@ -13,7 +16,7 @@ If you need to prepare for that next interview, have a look at code katas. But d
 - https://www.hackerrank.com/
 
 
-# Javascript resources
+## Javascript resources
 
 Javascript is one of the coding languages with the furthest reach ([according to GitHub survey](https://octoverse.github.com/projects#languages)) and has been in the top ten ever since. Time to master it with these tutorials:
 
@@ -23,7 +26,7 @@ https://wesbos.com/courses/ - Wes Bos is famous for his video courses (paid cour
 - https://www.javascript30.com/
 
 
-# Newsletters/ News pages
+## Newsletters/ News pages
 
 In order to be up to date and get informed about the latest changes, newsletters and news pages are really helpful.
 
@@ -34,12 +37,12 @@ In order to be up to date and get informed about the latest changes, newsletters
 
 - https://gigitherobot.com/ - This is a newsletter addressed to women and their tagline describe them best: "the important stories you don’t gloss over when you hear the word 'tech'."
 
-Community/News page:
+#### Community/News page:
 
 - https://dev.to/ (the page is built in Rails)
 
 
-# Twitter accounts
+## Twitter accounts
 
 If you enjoy twitter, here are some interesting accounts to follow, but that's just a start, because... honestly, there is tons' of devs on twitter. Just find the ones that interest you the most :)
 
@@ -49,10 +52,8 @@ If you enjoy twitter, here are some interesting accounts to follow, but that's j
 - https://twitter.com/emmawedekind - content creator and twitter famous
 - https://twitter.com/wesbos - author of the above mentioned javascript courses
 
+## Misc
 
-
-# Misc
-
-Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems
+Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems:
 https://github.com/Eschults/useful_stuff
 
