@@ -2,20 +2,20 @@
 
 At Le Wagon you learn our beloved Ruby and Rails - and there is a lot more to find out about it, have a look at these tutorials:
 
-https://gorails.com/series - a plethora of tutorials
-https://thoughtbot.com/upcase/ (they also have courses on advanced git!)
+- https://gorails.com/series - a plethora of tutorials
+- https://thoughtbot.com/upcase/ (they also have courses on advanced git!)
 
 # Code Katas
 
 If you need to prepare for that next interview, have a look at code katas. But don't get frustrated - these challenges are at the verge of coding, problem solving and mathematical skills which is a very specific skill of itself.
 
-https://www.codewars.com/
-https://www.hackerrank.com/
+- https://www.codewars.com/
+- https://www.hackerrank.com/
 
 
 # Javascript resources
 
-Javascript is one of the most famous coding languages and has been in the top ten ever since.
+Javascript is one of the coding languages with the furthest reach ( [see Gihub](https://octoverse.github.com/projects#languages) )and has been in the top ten ever since. Find
 
 javascript.info/
 https://learnjavascript.online/
