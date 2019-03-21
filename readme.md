@@ -56,5 +56,9 @@ If you enjoy twitter, here are some interesting accounts to follow, but that's j
 ## Misc
 
 Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems:
-https://github.com/Eschults/useful_stuff
+- https://github.com/Eschults/useful_stuff
+
+If you want to get a more in depth view into computer science, try this Havard Course. The lectures are very interesting, the challenges are hard, but they provide good in depth knowledge of what actually happens when we code.
+
+- [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
