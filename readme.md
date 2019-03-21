@@ -1,4 +1,4 @@
-"Coding further" is made for my students who graduated from Le Wagon coding bootcamp and are just now exploring the world of tech. 
+"Coding further" is made for my students who graduated from Le Wagon coding bootcamp and are just now exploring the world of tech.
 I have collected some (free) online courses to help you keep learning as well as other useful resources which will help you to fully immerse yourself in the dev universe. Have fun and let me know what you think!
 
 
@@ -27,9 +27,9 @@ https://wesbos.com/courses/ - Wes Bos is famous for his video courses (paid cour
 - https://www.javascript30.com/
 
 
-## Newsletters/ News pages
+## Newsletters/Communities
 
-In order to be up to date and get informed about the latest changes, newsletters and news pages are really helpful.
+In order to be up to date about the latest changes, newsletters and news pages are really helpful.
 
 
 - https://rubyweekly.com/ is a good start as it is the offical newsletter and has a nice mixture of news on the Ruby language, tutorials and hints
@@ -38,7 +38,7 @@ In order to be up to date and get informed about the latest changes, newsletters
 
 - https://gigitherobot.com/ - This is a newsletter addressed to women and their tagline describe them best: "the important stories you don’t gloss over when you hear the word 'tech'."
 
-#### Community/News page:
+#### Communities
 
 - https://dev.to/ (the page is built in Rails)
 
