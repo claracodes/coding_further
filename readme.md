@@ -16,7 +16,7 @@ If you need to prepare for that next interview, have a look at code katas. But d
 - https://www.hackerrank.com/
 
 
-## Javascript resources
+## Javascript courses
 
 Javascript is one of the coding languages with the furthest reach ([according to GitHub survey](https://octoverse.github.com/projects#languages)) and has been in the top ten ever since. Time to master it with these tutorials:
 
