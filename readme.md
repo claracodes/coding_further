@@ -1,6 +1,5 @@
-"Coding further" is made for my students who graduated from Le Wagon coding bootcamp and are just now exploring the world of tech.
+*"Coding further"* is made for my students who graduated from Le Wagon coding bootcamp and are just now exploring the world of tech.
 I have collected some (free) online courses to help you keep learning as well as other useful resources which will help you to fully immerse yourself in the dev universe. Have fun and let me know what you think!
-
 
 ## Ruby on Rails
 
@@ -45,7 +44,7 @@ In order to be up to date about the latest changes, newsletters and news pages a
 
 ## Twitter accounts
 
-If you enjoy twitter, here are some interesting accounts to follow, but that's just a start, because... honestly, there is tons' of devs on twitter. Just find the ones that interest you the most :)
+If you enjoy twitter, here are some interesting accounts to follow, but that's just a start, because... honestly, there is tons of devs on twitter. Just find the ones that interest you the most :)
 
 - https://twitter.com/eileencodes - works for Github and is part of the Rails core team
 - https://twitter.com/dhh - the creator of Rails and author of bestselling books. If you like strong opinions, check his account
