@@ -48,7 +48,7 @@ If you enjoy twitter, here are some interesting accounts to follow, but that's j
 
 - [eileencodes](https://twitter.com/eileencodes) - works for Github and is part of the Rails core team
 - [dhh](https://twitter.com/dhh) - the creator of Rails and author of bestselling books. If you like strong opinions, check his account
-- [girslwhocode}(https://twitter.com/girlswhocode)
+- [girslwhocode](https://twitter.com/girlswhocode)
 - [emmawedekind](https://twitter.com/emmawedekind) - content creator and twitter famous
 - [wesbos](https://twitter.com/wesbos) - author of the above mentioned javascript courses
 
