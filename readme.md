@@ -55,7 +55,7 @@ If you enjoy twitter, here are some interesting accounts to follow, but that's j
 Open Source is a great way to learn from the community, and see how other experienced developers write code. You may also have to play around with other technologies, which also correlates to a lovely way to learn!
 
 - [First Time Contributors](https://github.com/firstcontributions/first-contributions) - To understand how to make an open source contribution:
-- [Open Source Projects](https://firstcontributions.github.io/#social-share) - Here is a website that helps navigate open-source projects that welcome first time contributors
+- [Open Source Projects](https://firstcontributions.github.io) - Here is a website that helps navigate open-source projects that welcome first time contributors
 
 ## Coding Conferences
 
