@@ -21,8 +21,8 @@ If you need to prepare for that next interview, have a look at code katas. But d
 Javascript is one of the coding languages with the furthest reach ([according to GitHub survey](https://octoverse.github.com/projects#languages)) and has been in the top ten ever since. Time to master it with these tutorials:
 
 - https://javascript.info/ a very extensive course with a lot of small and interesting details covered - more than just the average course!
-https://learnjavascript.online/ - made by a long-term teacher for Le Wagon and expert in his field [Jad](https://jadjoubran.io/)
-https://wesbos.com/courses/ - Wes Bos is famous for his video courses (paid courses! - but Wagon alumni have gotten reductions before when they bought in bulks, so shooting him a message might be worth it) if you want to see if you like his teaching style, check out his free course:
+- https://learnjavascript.online/ - made by a long-term teacher for Le Wagon and expert in his field [Jad](https://jadjoubran.io/)
+- https://wesbos.com/courses/ - Wes Bos is famous for his video courses (paid courses! - but Wagon alumni have gotten reductions before when they bought in bulks, so shooting him a message might be worth it) if you want to see if you like his teaching style, check out his free course:
 - https://www.javascript30.com/
 
 
@@ -32,9 +32,7 @@ In order to be up to date about the latest changes, newsletters and news pages a
 
 
 - https://rubyweekly.com/ is a good start as it is the offical newsletter and has a nice mixture of news on the Ruby language, tutorials and hints
-
 - https://tinyletter.com/turbobreakfast of course I have to mention Dimitris (teacher and developer for Le Wagon Berlin) `Turbo Breakfast` with curated picks from tech, economics, design and things that make the web beautiful.
-
 - https://gigitherobot.com/ - This is a newsletter addressed to women and their tagline describe them best: "the important stories you don’t gloss over when you hear the word 'tech'."
 
 #### Communities
