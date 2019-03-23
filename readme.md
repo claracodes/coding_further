@@ -52,6 +52,29 @@ If you enjoy twitter, here are some interesting accounts to follow, but that's j
 - [emmawedekind](https://twitter.com/emmawedekind) - content creator and twitter famous
 - [wesbos](https://twitter.com/wesbos) - author of the above mentioned javascript courses
 
+## Open Source Contributions
+
+Open Source is a great way to learn from the community, and see how other experienced developers write code. You may also have to play around with other technologies, which also correlates to a lovely way to learn!
+
+- [First Time Contributors](https://github.com/firstcontributions/first-contributions) - To understand how to make an open source contribution:
+- [Open Source Projects](https://firstcontributions.github.io/#social-share) - Here is a website that helps navigate open-source projects that welcome first time contributors
+
+## Coding Conferences
+
+What better way to network and learn than to attend conferences?
+
+#### Frontend
+
+- [You Gotta Love Frontend](https://www.yglfconf.com/) - Global Frontend event that travels around
+- [Javascript Conferences](https://jsconf.com/) - A website to find Javascript Conferences
+
+#### Ruby
+- [Ruby Conferences](https://rubyconferences.org/) - Ruby Conferences
+
+#### All (Conference Searching Websites)
+- [Conference Monkey](https://conferencemonkey.org/top/software-development/conferences) - Search for miscellaneous conferences
+- [Conference.tech](https://confs.tech/) - Search for miscellaneous conferences
+
 ## Misc
 
 Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems:
@@ -60,4 +83,5 @@ Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explainat
 If you want to get a more in depth view into computer science, try this Havard Course. The lectures are very interesting, the challenges are hard, but they provide good in depth knowledge of what actually happens when we code.
 
 - [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson's __You Don't Know Javascript__
 
