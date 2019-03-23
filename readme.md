@@ -1,5 +1,5 @@
 **_Coding further_** is made for my students who graduated from Le Wagon coding bootcamp and are just now exploring the world of tech.
-I have collected some (free) online courses to help you keep learning as well as other useful resources which will help you to fully immerse yourself in the dev universe. Have fun and let me know what you think!
+I have collected some (free) online courses to help you keep learning as well as other useful resources which will help you to fully immerse yourself in the dev universe. Have fun and let me know what you think! [Contact](https://twitter.com/Clara_Morgen)
 
 ## Ruby on Rails
 
