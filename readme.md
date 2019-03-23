@@ -83,5 +83,7 @@ Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explainat
 If you want to get a more in depth view into computer science, try this Havard Course. The lectures are very interesting, the challenges are hard, but they provide good in depth knowledge of what actually happens when we code.
 
 - [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+IF you are interested in learning an indepth knowledge of JavaScript.. __You Don't Know JavaScript__ is considered by some to be the holy bible of JavaScript
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson's __You Don't Know Javascript__
 
