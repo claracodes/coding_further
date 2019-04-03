@@ -31,10 +31,11 @@ Javascript is one of the coding languages with the furthest reach ([according to
 In order to be up to date about the latest changes, newsletters and news pages are really helpful.
 
 
-- https://rubyweekly.com/ is a good start as it is the offical newsletter and has a nice mixture of news on the Ruby language, tutorials and hints
-- https://tinyletter.com/turbobreakfast of course I have to mention Dimitris (teacher and developer for Le Wagon Berlin) `Turbo Breakfast` with curated picks from tech, economics, design and things that make the web beautiful.
-- https://gigitherobot.com/ - This is a newsletter addressed to women and their tagline describe them best: "the important stories you don’t gloss over when you hear the word 'tech'."
-
+- [Ruby weekly](https://rubyweekly.com/) is a good start as it is the offical newsletter and has a nice mixture of news on the Ruby language, tutorials and hints
+- [TurboBreakFast](https://tinyletter.com/turbobreakfast) of course I have to mention Dimitris (teacher and developer for Le Wagon Berlin) `Turbo Breakfast` with curated picks from tech, economics, design and things that make the web beautiful.
+- [Gigi the robot](https://gigitherobot.com/) - This is a newsletter addressed to women and their tagline describe them best: "the important stories you don’t gloss over when you hear the word 'tech'."
+- [Navigating your software development career](https://www.jamesmichaelhickey.com/) a newsletter with advice how to create, maintain and push your career in web/software development
+ 
 #### Communities
 
 - https://dev.to/ (the page is built in Rails)
