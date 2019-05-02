@@ -35,7 +35,7 @@ In order to be up to date about the latest changes, newsletters and news pages a
 - [TurboBreakFast](https://tinyletter.com/turbobreakfast) of course I have to mention Dimitris (teacher and developer for Le Wagon Berlin) `Turbo Breakfast` with curated picks from tech, economics, design and things that make the web beautiful.
 - [Gigi the robot](https://gigitherobot.com/) - This is a newsletter addressed to women and their tagline describe them best: "the important stories you don’t gloss over when you hear the word 'tech'."
 - [Navigating your software development career](https://www.jamesmichaelhickey.com/) a newsletter with advice how to create, maintain and push your career in web/software development
- 
+
 #### Communities
 
 - https://dev.to/ (the page is built in Rails)
@@ -78,6 +78,9 @@ What better way to network and learn than to attend conferences?
 
 Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems:
 - https://github.com/Eschults/useful_stuff
+
+100 days of code is more than just a hashtag. It's a movement encouraging you to code for every day the next 100 days. A perfect eay to make coding a habit and not to loose that bootcamp vibe.
+- https://www.100daysofcode.com/
 
 If you want to get a more in depth view into computer science, try this Havard Course. The lectures are very interesting, the challenges are hard, but they provide good in depth knowledge of what actually happens when we code.
 
