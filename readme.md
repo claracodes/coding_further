@@ -14,6 +14,12 @@ If you need to prepare for that next interview, have a look at code katas. But d
 
 - https://www.codewars.com/
 - https://www.hackerrank.com/
+- https://projecteuler.net/
+
+## Problem solving
+
+THE coding skill any programmer should have. No matter which language, you need to be able to know how approach coding challenges.
+- Follow [a series](https://dev.to/aspittel/moving-past-tutorials-a-course-on-problem-solving-for-programmers-3oa4) by [Ali Spittel](https://twitter.com/ASpittel) (also in Twitter section 👇)
 
 
 ## Javascript courses
@@ -39,16 +45,17 @@ In order to be up to date about the latest changes, newsletters and news pages a
 #### Communities
 
 - https://dev.to/ (the page is built in Rails)
+- https://glitch.com (browse apps others built or follow a tutorial to build your own)
 
 
 ## Twitter accounts
 
 If you enjoy twitter, here are some interesting accounts to follow, but that's just a start, because... honestly, there is tons of devs on twitter. Just find the ones that interest you the most :)
 
-- [eileencodes](https://twitter.com/eileencodes) - works for Github and is part of the Rails core team
 - [dhh](https://twitter.com/dhh) - the creator of Rails and author of bestselling books. If you like strong opinions, check his account
 - [girslwhocode](https://twitter.com/girlswhocode)
 - [emmawedekind](https://twitter.com/emmawedekind) - content creator and twitter famous
+- [ASpittel](https://twitter.com/ASpittel) - former coding bootcamp instructor and author of many tutorials (including the above-mentioned problem solving course)
 - [wesbos](https://twitter.com/wesbos) - author of the above mentioned javascript courses
 
 ## Open Source Contributions
@@ -76,7 +83,10 @@ What better way to network and learn than to attend conferences?
 
 ## Misc
 
-Check out Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems:
+Chingu is a platform to find teams to work on real projects. Perfect to enrich your portfolio and improve team working skills
+- https://chingu.io/
+
+Check out Le Wagon Paris teacher Edwards' repo with a mix of helpful shortcuts, explaination for error messages and recommendations for gems:
 - https://github.com/Eschults/useful_stuff
 
 100 days of code is more than just a hashtag. It's a movement encouraging you to code for every day the next 100 days. A perfect eay to make coding a habit and not to loose that bootcamp vibe.
