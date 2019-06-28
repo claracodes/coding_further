@@ -31,6 +31,10 @@ Javascript is one of the coding languages with the furthest reach ([according to
 - https://wesbos.com/courses/ - Wes Bos is famous for his video courses (paid courses! - but Wagon alumni have gotten reductions before when they bought in bulks, so shooting him a message might be worth it) if you want to see if you like his teaching style, check out his free course:
 - https://www.javascript30.com/
 
+## Frontend Framework Tutorial
+
+- Stimulus Handbook
+- Gatsby https://www.gatsbyjs.org/tutorial/
 
 ## Newsletters/Communities
 
