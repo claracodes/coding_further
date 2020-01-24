@@ -38,13 +38,15 @@ In order to be up to date about the latest changes, newsletters and news pages a
 
 
 - [Ruby weekly](https://rubyweekly.com/) is a good start as it is the offical newsletter and has a nice mixture of news on the Ruby language, tutorials and hints
-- [TurboBreakFast](https://tinyletter.com/turbobreakfast) of course I have to mention Dimitris (teacher and developer for Le Wagon Berlin) `Turbo Breakfast` with curated picks from tech, economics, design and things that make the web beautiful.
-- [Gigi the robot](https://gigitherobot.com/) - This is a newsletter addressed to women and their tagline describe them best: "the important stories you don’t gloss over when you hear the word 'tech'."
+- [rendezvous with cassidoo](https://buttondown.email/cassidoo) Cassidy Williams is famous for her videos and she also has a newsletter.
 - [Navigating your software development career](https://www.jamesmichaelhickey.com/) a newsletter with advice how to create, maintain and push your career in web/software development
 
 #### Communities
 
-- https://dev.to/ (the page is built in Rails)
+- https://dev.to/ (the page is built in Rails and they're open source!)
+  dev.to also published a book called "Your first year in code" - check out here
+   - [e-book](https://dev.to/devteam/the-dev-community-published-a-book-your-first-year-in-code-1ejk)
+   - [physical copy](https://dev.to/devteam/your-first-year-in-code-now-available-in-print-3pai)
 - https://glitch.com (browse apps others built or follow a tutorial to build your own)
 
 
@@ -98,4 +100,12 @@ If you want to get a more in depth view into computer science, try this Havard C
 
 IF you are interested in learning an indepth knowledge of JavaScript.. __You Don't Know JavaScript__ is considered by some to be the holy bible of JavaScript
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson's __You Don't Know Javascript__
+
+
+---
+Let me know if I am missing a cool link in this list and I will add it.
+Also: add me on [twitter](https://twitter.com/Clara_Morgen)
+
+Cheers, Clara
+
 
