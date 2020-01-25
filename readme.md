@@ -28,6 +28,7 @@ Javascript is one of the coding languages with the furthest reach ([according to
 
 - https://javascript.info/ a very extensive course with a lot of small and interesting details covered - more than just the average course!
 - https://learnjavascript.online/ - made by a long-term teacher for Le Wagon and expert in his field [Jad](https://jadjoubran.io/)
+- https://react-tutorial.app/ - Interactive React course by [Jad](https://jadjoubran.io)
 - https://wesbos.com/courses/ - Wes Bos is famous for his video courses (paid courses! - but Wagon alumni have gotten reductions before when they bought in bulks, so shooting him a message might be worth it) if you want to see if you like his teaching style, check out his free course:
 - https://www.javascript30.com/
 
