@@ -8,13 +8,20 @@ At Le Wagon you learn our beloved Ruby and Rails - and there is a lot more to fi
 - https://gorails.com/series - a plethora of tutorials
 - https://thoughtbot.com/upcase/ (they also have courses on advanced git!)
 
-## Code Katas
+## Coding Courses (free)
+
+- https://www.freecodecamp.org/
+- https://www.codecademy.com/catalog
+
+## Code Katas & Coding Problems
 
 If you need to prepare for that next interview, have a look at code katas. But don't get frustrated - these challenges are at the verge of coding, problem solving and mathematical skills which is a very specific skill of itself.
 
 - https://www.codewars.com/
 - https://www.hackerrank.com/
 - https://projecteuler.net/
+- https://leetcode.com/
+- https://www.interviewbit.com/
 
 ## Problem solving
 
@@ -37,7 +44,6 @@ Javascript is one of the coding languages with the furthest reach ([according to
 
 In order to be up to date about the latest changes, newsletters and news pages are really helpful.
 
-
 - [Ruby weekly](https://rubyweekly.com/) is a good start as it is the offical newsletter and has a nice mixture of news on the Ruby language, tutorials and hints
 - [rendezvous with cassidoo](https://buttondown.email/cassidoo) Cassidy Williams is famous for her videos and she also has a newsletter.
 - [Navigating your software development career](https://www.jamesmichaelhickey.com/) a newsletter with advice how to create, maintain and push your career in web/software development
@@ -49,6 +55,7 @@ In order to be up to date about the latest changes, newsletters and news pages a
    - [e-book](https://dev.to/devteam/the-dev-community-published-a-book-your-first-year-in-code-1ejk)
    - [physical copy](https://dev.to/devteam/your-first-year-in-code-now-available-in-print-3pai)
 - https://glitch.com (browse apps others built or follow a tutorial to build your own)
+- wnbrb.slack.com ruby meetup group for women and enbies 
 
 
 ## Twitter accounts
